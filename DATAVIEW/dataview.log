@@ -1,0 +1,8 @@
+2022/01/20 21:46:29.870, Level: 3, The value for variable/object: the inputportAndFile value is  is {0=/Users/mohammedal-hamam/Downloads/DATAVIEW-3.0/DATAVIEW/WebContent/workflowTaskDir/GeneticNNWorkflow@749070052, 1=/Users/mohammedal-hamam/Downloads/DATAVIEW-3.0/DATAVIEW/WebContent/workflowTaskDir/Breast_cancer_data.csv}
+2022/01/20 21:46:29.873, Level: 3, The value for variable/object: the outputportAndFile value is  is {0=/Users/mohammedal-hamam/Downloads/DATAVIEW-3.0/DATAVIEW/WebContent/workflowTaskDir/output.txtNNExecutor@4b53f538}
+2022/01/20 21:46:29.876, Level: 3, We reached here:  Task NNExecutor start to run
+2022/01/20 21:46:29.922, Level: 3, We reached here:  Task NNExecutor is finished
+2022/01/20 21:55:09.784, Level: 3, The value for variable/object: the inputportAndFile value is  is {0=/Users/mohammedal-hamam/Downloads/DATAVIEW-3.0/DATAVIEW/WebContent/workflowTaskDir/GeneticNNWorkflow@749070052, 1=/Users/mohammedal-hamam/Downloads/DATAVIEW-3.0/DATAVIEW/WebContent/workflowTaskDir/Breast_cancer_data.csv}
+2022/01/20 21:55:09.785, Level: 3, The value for variable/object: the outputportAndFile value is  is {0=/Users/mohammedal-hamam/Downloads/DATAVIEW-3.0/DATAVIEW/WebContent/workflowTaskDir/output.txtNNExecutor@4b53f538}
+2022/01/20 21:55:09.789, Level: 3, We reached here:  Task NNExecutor start to run
+2022/01/20 21:55:09.838, Level: 3, We reached here:  Task NNExecutor is finished
